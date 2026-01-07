@@ -42,4 +42,4 @@ Files in this Repository
 - `dashboard.png` – Power BI dashboard preview
 
 ## 🖼️ Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard1.png)
