@@ -41,5 +41,4 @@ Files in this Repository
 - `Data/customer_powerbi_data.xlsx` – Power BI-ready dataset
 - `dashboard.png` – Power BI dashboard preview
 
-## 🖼️ Dashboard Preview
-![Dashboard](Dashboard1.png)
+
