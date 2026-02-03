@@ -37,8 +37,8 @@ Key Insights
 
 Files in this Repository
 - `customer_behavior.ipynb` – Complete analysis & ML workflow
-- `Data/ecommerce_data.xlsx` – Raw dataset
-- `Data/customer_powerbi_data.xlsx` – Power BI-ready dataset
+- `ecommerce_data.xlsx` – Raw dataset
+- `customer_powerbi_data.xlsx` – Power BI-ready dataset
 - `dashboard.png` – Power BI dashboard preview
 
 
